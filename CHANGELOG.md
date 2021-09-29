@@ -1,6 +1,18 @@
 CHANGELOG
 =========
 
+
+0.9.0
+-----
+
+### Added
+
+- New coordinate format "Degree Decimal Minutes" available with `toDegreeDecimalMinutes()` [BC break]
+
+### Change
+
+- Increased precision of `initialBearing()` and `finalBearing()`
+
 0.8.3
 -----
 
